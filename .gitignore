@@ -112,4 +112,7 @@ dmypy.json
 .pyre/
 
 # Output files (optional - remove if you want to track converted files)
+input/*.ass
 output/*.srt 
+
+.DS_Store
